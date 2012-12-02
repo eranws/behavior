@@ -6,3 +6,15 @@ for (ex1;;);
 for (;whil;);
 
 for (;;doh);
+
+
+
+///
+ char c = getchar();
+ for(;c != '\n';)
+ {
+  putchar (c);
+  getchar();
+ }
+///
+
