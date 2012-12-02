@@ -1,5 +1,5 @@
 Door Handle
-===========
+=========== 
 
 A door handle has two sides.
 assuming she(!) has the minimalist sensory data:
@@ -29,3 +29,6 @@ when handle is touched on the **outside** and then the door **opens** - *turns o
 when handle is touched on the **inside** and then the door **closed** - *locks* door
 
 the 'supervisor' of the learning scheme is the manual mode of the actuator (lightswitch, key-lock)
+
+
+Click [here](http://prose.io/#eranws/behaviour/blob/master/behavior.md) to Edit
