@@ -45,6 +45,3 @@ when handle is touched on the **inside** and then the door **closed** - *locks* 
 learning
 --
 the 'supervisor' of the learning scheme is the manual mode of the actuator (lightswitch, key-lock)
-
---
-Click [here](http://prose.io/#eranws/behavior/edit/gh-pages/behavior.md) to edit
