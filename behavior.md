@@ -17,7 +17,7 @@ In the following situations:
 * touch in then out
 * touch out then in
 
-can we teach her how to actuate: 
+Can we teach her how to actuate: 
 
 1. light inside
 2. light out
