@@ -3,15 +3,15 @@ void main()
  {
  //while (putchar (getchar()) != '\n');
 
- char c = getchar();
+ volatile char c;
  for
  (
-	;
-	c != '\n';
+  c = 0;
+  (c = getchar()) != '\n';
+  putchar (c)
  )
  {
-  putchar (c);
-  getchar();
+ 
  }
 
   //wait for input
