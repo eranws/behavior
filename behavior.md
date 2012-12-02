@@ -2,8 +2,12 @@ door handle
 ===========
 
 A door handle has two sides.
-assuming she(!) has the minimalist sensory data (touch - y\n)
-and position (open/close).
+assuming she(!) has the minimalist sensory data:
+touch : boolean
+doorState : boolean (open|close)
+position : float (0.0 < pos <= 1.0)
+
+// we can add many more to this list like: pressure on handle, light sensor, etc.
 
 In the following situations:
 
