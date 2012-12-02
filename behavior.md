@@ -47,4 +47,4 @@ learning
 the 'supervisor' of the learning scheme is the manual mode of the actuator (lightswitch, key-lock)
 
 --
-Click [here](http://prose.io/#eranws/behaviour/edit/master/behavior.md) to edit
+Click [here](http://prose.io/#eranws/behavior/edit/gh-pages/behavior.md) to edit
