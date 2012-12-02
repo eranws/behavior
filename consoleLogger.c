@@ -3,7 +3,7 @@ void main()
  {
  //while (putchar (getchar()) != '\n');
 
- volatile char c;
+ char c;
  for
  (
   c = 0;
@@ -11,7 +11,8 @@ void main()
   putchar (c)
  )
  {
- 
+putchar ('!');
+ 	
  }
 
   //wait for input
