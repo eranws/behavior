@@ -1,0 +1,15 @@
+door handle
+===========
+
+A door handle has two sides.
+assuming she(!) has the minimalist sensory data (touch - y\n)
+and position (open/close). in the following situations:
+
+touch in then out
+touch out then in
+
+can we teach her how to actuate: 
+
+1. light inside
+2. light out
+3. water heater
